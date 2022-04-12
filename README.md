@@ -24,4 +24,21 @@ $ bash aio.sh
 
 # 1st ss 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/1zvnw2N/Screenshot-2022-0412-171534.png" alt="Screenshot-2022-0412-171534" border="0"></a>
+<br/>
+</br>
+</br>
+# 2nd ss 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/D7GXY1m/Screenshot-2022-0412-171557.png" alt="Screenshot-2022-0412-171557" border="0"></a> 
+</br>
+</br>
+# 3rd ss 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/0nXRzcp/Screenshot-2022-0412-171621.png" alt="Screenshot-2022-0412-171621" border="0"></a> 
 
+
+</br>
+</br>
+</br>
+#  NOTE 
+
+
+THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY 
