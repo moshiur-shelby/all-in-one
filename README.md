@@ -38,7 +38,11 @@ $ bash aio.sh
 </br>
 </br>
 </br>
-#  NOTE 
 
 
-THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY 
+# NOTE  
+
+
+this tool is for educational purposes only.
+do not use this tool for any kind of crime.
+if  you do any illegal activities then i am not responsible for this.
