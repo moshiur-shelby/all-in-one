@@ -46,3 +46,8 @@ $ bash aio.sh
 this tool is for educational purposes only.
 do not use this tool for any kind of crime.
 if  you do any illegal activities then i am not responsible for this.
+
+
+# CONTACT 
+
+<br>[[![Github](https://img.shields.io/badge/Github-[MOSHIUR-SHELBY]-blue?style=flat-square&logo=GITHUBlogoColor=blue&labelColor=blue)](https://github.com/moshiur-shelby)] <br> [[![Github](https://img.shields.io/badge/WHATSAPP-[moshiur-shelby]-red?style=flat-square&logo=WHATSAPPlogoColor=red&labelColor=cyan)](https://whatsapp.com/01409063324)]<br> [_[![Facebook](https://img.shields.io/badge/Facebook-moshiur-shelby]-yellow?style=flat-square&logo=facebooklogoColor=green&labelColor=red)](https://www.facebook.com/afnan.vau.fallen.dept)_]<br>
