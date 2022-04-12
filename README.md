@@ -21,6 +21,7 @@ $ bash aio.sh
 
 
 # SCREENSHOT 
-````
-<a href="/">ss</a>
-````
+
+# 1st ss 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/1zvnw2N/Screenshot-2022-0412-171534.png" alt="Screenshot-2022-0412-171534" border="0"></a>
+
